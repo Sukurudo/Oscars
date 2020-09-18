@@ -6,9 +6,9 @@ Varsha Jha [GitHub](https://github.com/varshajha28)<br>
 Will Warriner [GitHub](https://github.com/Sukurudo)<br>
 
 ## Team Communication Methodology
-Team Communication: Primary use Slack Channel #project-04 for written and up to date communication;<br>
+Team Communication: Primary use Slack for written and up to date communication;<br>
 Team Meetings using Zoom
-Secondary communiction channel will be: Whatsap and Email if necessry
+Secondary communication channel will be: Whatsap and Email if necessry
 
 ## Google Slide Project Presentation:
 [Google Slides](https://docs.google.com/presentation/d/19eELHUF5ejVCr1qL8Zg_ChHK3Jr896yV9d53X8yzo-M/edit?usp=sharing)
